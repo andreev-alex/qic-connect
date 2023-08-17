@@ -1,5 +1,6 @@
 
 :root {
-    /* Primary button background color */
-    --colorDsButtonbgprimary: #5a2cf2;    
+    --colorSilverKen100: #f5f5f9;    
+    --colorChaosBlack800: #19191e;    
+    --colorSurfaceDsSurfacePrimary: var(--colorSilverKen100);    
 }
