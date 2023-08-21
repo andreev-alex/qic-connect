@@ -2,5 +2,7 @@
 :root {
     --colorSilverKen100: #f5f5f9;    
     --colorChaosBlack800: #19191e;    
+    /* Some description */
+    --colorTestToken: #ffffff;    
     --colorSurfaceDsSurfacePrimary: var(--colorSilverKen100);    
 }
